@@ -94,7 +94,7 @@ def assigment_1(processedBrown):
 	plt.show()	
 	#*****************************************
 
-	def assignment_2(processedPoem):
+def assignment_2(processedPoem):
 
 	word_list = []
 	count_list = []
